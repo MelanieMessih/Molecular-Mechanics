@@ -8,7 +8,7 @@
 ...
 
 ### Data Flow Diagram
-![Schermafbeelding 2024-03-15 114958](https://github.com/MelanieMessih/Molecular-Mechanics/assets/122268335/e7238cc9-0ff5-441e-b213-03fe50fcdcad)
+![image](https://github.com/MelanieMessih/Molecular-Mechanics/assets/122268335/be896ea4-9392-4d45-a678-a1b75da7e943)
 
 
 ### Requirements

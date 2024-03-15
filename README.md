@@ -19,3 +19,9 @@ This codebase is written in GNU Fortran (Rev4, Built by MSYS2 project) version 1
 ```
 
 ...
+
+## Author
+- Melanie Messih (13362933)
+
+## Supervisor
+- Chima Chibueze

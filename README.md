@@ -13,7 +13,7 @@
 
 ### Requirements
 
-This codebase is written in Fortran90 v... .
+This codebase is written in GNU Fortran (Rev4, Built by MSYS2 project) version 13.2.0.
 ```
 ...
 ```

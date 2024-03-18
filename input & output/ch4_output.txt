@@ -1,0 +1,32 @@
+Molecule Name: CH4
+CC bonded interactions:        0
+HC bonded interactions:        4
+
+CCC bending interactions:      0
+CCH bending interactions:      0
+HCH bending interactions:      6
+
+CCCC torsional interactions:   0
+CCCH torsional interactions:   0
+HCCH torsional interactions:   0
+
+CC nonbonded interactions:     0
+HC nonbonded interactions:     0
+HH nonbonded interactions:     0
+
+Iterations taken:   2341 out of 10000
+Algorithm has converged:      Yes
+
+Initial Energy Values:
+Stretch Energy:                    0.5119 kcal/mol
+Bending Energy:                    0.0001 kcal/mol
+Torsional Energy:                  0.0000 kcal/mol
+Nonbonded Energy:                  0.0000 kcal/mol
+Total Energy:                      0.5119 kcal/mol
+
+Final Energy Values After Minimization:
+Stretch Energy:                    0.1119 kcal/mol
+Bending Energy:                    0.1274 kcal/mol
+Torsional Energy:                  0.0000 kcal/mol
+Nonbonded Energy:                  0.0000 kcal/mol
+Total Energy:                      0.2393 kcal/mol

@@ -1,7 +1,7 @@
 # Molecular-Mechanics
 
 ### Scientific Computing & Programming - final project 
-- University of Amsterdam
+- University of Amsterdam & Vrije Universiteit Amsterdam
 - March 2024
 
 ## ...

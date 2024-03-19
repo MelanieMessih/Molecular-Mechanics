@@ -4,12 +4,13 @@
 - University of Amsterdam & Vrije Universiteit Amsterdam
 - March 2024
 
-## Introduction of the project
+## Introduction to the project
 ...
 
 ### Requirements
 
 This codebase is written in GNU Fortran (Rev4, Built by MSYS2 project) version 13.2.0.
+
 
 ### Structure
 
@@ -24,6 +25,7 @@ The following list describes the directories and files related to this project, 
   - **/{...}.xyz**: Contains the initial geometry of a molecule {...} as Cartesian coordinates, e.g. c4h10.
   - **/optimized_geometry_{...}.xyz**: Contains the final geometry of the molecule as Cartesian coordinates.
   - **/energy_minimization_output_{...}.txt**: Contains the simulation results, including the counts for the different interaction types (e.g. CC bonded interactions) and the initial and final values of the energy components. 
+
 
 ## Author
 - Melanie Messih (13362933)

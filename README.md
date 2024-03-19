@@ -5,7 +5,8 @@
 - March 2024
 
 ## Introduction to the project
-...
+
+This project focuses on simplifying electronic energy calculations in quantum chemistry using force field methods, which avoid detailed electron consideration by parametrizing energy based on nuclear coordinates. It aims to identify stable molecular geometries through energy function minimization, focusing on molecules consisting of both carbon and hydrogen atoms linked by single bonds. By employing the Metropolis algorithm, the method finds minimum energy geometries, offering a simplified approach to understanding molecular stability and structure, both essential for understanding chemical properties and reactions.
 
 ### Requirements
 

@@ -1,0 +1,32 @@
+Molecule Name: C4H10-DISTORTED
+CC bonded interactions:        3
+HC bonded interactions:       10
+
+CCC bending interactions:      2
+CCH bending interactions:     14
+HCH bending interactions:      8
+
+CCCC torsional interactions:   1
+CCCH torsional interactions:  10
+HCCH torsional interactions:  16
+
+CC nonbonded interactions:     1
+HC nonbonded interactions:    16
+HH nonbonded interactions:    37
+
+Iterations taken:   3684 out of 10000
+Algorithm has converged:      Yes
+
+Initial Energy Values:
+Stretch Energy:                    2.2869 kcal/mol
+Bending Energy:                   18.6289 kcal/mol
+Torsional Energy:                  6.5159 kcal/mol
+Nonbonded Energy:                 -5.4385 kcal/mol
+Total Energy:                     21.9933 kcal/mol
+
+Final Energy Values After Minimization:
+Stretch Energy:                    0.5707 kcal/mol
+Bending Energy:                    0.9534 kcal/mol
+Torsional Energy:                  2.4593 kcal/mol
+Nonbonded Energy:                 -7.2009 kcal/mol
+Total Energy:                     -3.2175 kcal/mol

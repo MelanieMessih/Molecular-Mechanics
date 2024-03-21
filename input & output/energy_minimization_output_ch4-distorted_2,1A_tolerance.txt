@@ -1,0 +1,32 @@
+Molecule Name: CH4-DISTORTED
+CC bonded interactions:        0
+HC bonded interactions:        4
+
+CCC bending interactions:      0
+CCH bending interactions:      0
+HCH bending interactions:      6
+
+CCCC torsional interactions:   0
+CCCH torsional interactions:   0
+HCCH torsional interactions:   0
+
+CC nonbonded interactions:     0
+HC nonbonded interactions:     0
+HH nonbonded interactions:     0
+
+Iterations taken:   2356 out of 10000
+Algorithm has converged:      Yes
+
+Initial Energy Values:
+Stretch Energy:                   37.9593 kcal/mol
+Bending Energy:                    6.8777 kcal/mol
+Torsional Energy:                  0.0000 kcal/mol
+Nonbonded Energy:                  0.0000 kcal/mol
+Total Energy:                     44.8370 kcal/mol
+
+Final Energy Values After Minimization:
+Stretch Energy:                    0.3854 kcal/mol
+Bending Energy:                    1.4106 kcal/mol
+Torsional Energy:                  0.0000 kcal/mol
+Nonbonded Energy:                  0.0000 kcal/mol
+Total Energy:                      1.7959 kcal/mol

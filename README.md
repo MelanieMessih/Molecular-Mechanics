@@ -22,7 +22,7 @@ The following list describes the directories and files related to this project, 
   - **/overview.pdf**: Contains information about the modules, procedures, user-derived data types, dependencies, and the input and output relevant to this project.
   - **/molecular mechanics paper.pdf**: Contains the force field parameters needed for the energy calculations in this project.
   - **/project description.pdf**: Contains the project description and requirements.
-- **/input & output**: Contains examples of input and output files for two different molecules: c4h10 and ch4.
+- **/input & output**: Contains examples of input and output files for two different molecules: c4h10 and ch4. For more distorted initial geometries, it is needed to increase the bond length tolerance w.r.t. the equilibrium bond lengths. When a deviating bond length tolerance is used, it is indicated in the output filenames. 
   - **/{...}.xyz**: Contains the initial geometry of a molecule {...} as Cartesian coordinates, e.g. c4h10.
   - **/optimized_geometry_{...}.xyz**: Contains the final geometry of the molecule as Cartesian coordinates.
   - **/energy_minimization_output_{...}.txt**: Contains the simulation results, including the counts for the different interaction types (e.g. CC bonded interactions) and the initial and final values of the energy components. 
